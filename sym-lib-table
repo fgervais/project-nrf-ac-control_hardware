@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "My_Boards")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/myboards/My_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "SM04B-SRSS-TB_LF__SN_")(type "Legacy")(uri "${KIPRJMOD}/kicad-library/SM04B-SRSS-TB(LF)(SN)/SM04B-SRSS-TB_LF__SN_.lib")(options "")(descr ""))
+  (lib (name "CL-SB-22A-02T")(type "Legacy")(uri "${KIPRJMOD}/kicad-library/CL-SB-22A-02T/CL-SB-22A-02T.lib")(options "")(descr ""))
+)
